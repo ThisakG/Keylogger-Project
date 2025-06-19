@@ -1,0 +1,9 @@
+
+---Logging started: 2025-06-19 21:21:24.891459---
+
+
+welcome to [backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]welcome to the python le[backspace][backspace]key l[backspace][backspace]logger eve[backspace][backspace][backspace]proga[backspace]eam [backspace][backspace][backspace][backspace]ram created by me[esc]
+---Logging started: 2025-06-19 21:23:06.949787---
+welcome all to the notepad. 
+so what i am doing here tis [backspace][backspace][backspace][backspace]is doing a small demo h[backspace]where it [backspace][backspace] attempt so [backspace][backspace][backspace]to sjh[backspace][backspace]how yall hw [backspace]o[backspace][backspace]ow the keylogger i create
+works by logging the keysto[backspace]o[backspace]rokes that i am currently doing to [backspace][backspace][backspace]into a text file. [esc]
