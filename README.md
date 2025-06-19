@@ -30,7 +30,7 @@ This project was created to explore how keyloggers work at a basic level, improv
 - the keystrokes will be saved in the keylog.txt
 - (a sample log file is also attached for reference)
 
-##📜 How It Works (Explained Simply)
+## 📜 How It Works (Explained Simply)
 This keylogger uses the pynput library, which makes capturing keyboard events super clean in Python.
 Without pynput, you'd have to write hundreds of lines of low-level OS-specific code in C or Assembly, directly hooking into keyboard interrupts or API calls.
 
