@@ -22,13 +22,15 @@ This project was created to explore how keyloggers work at a basic level, improv
 1. Clone this repository
 2. Install required libraries: pip install pynput
 
-## 🚀 How to run the Keylogger
+## 🚀 How to run the Keylogge
 
-- run the program in your terminal or in VScode.
-- the program will start listening for keystrokes
-- it is recommended to type characters in a notepad for testing
-- the keystrokes will be saved in the keylog.txt
-- (a sample log file is also attached for reference)
+1. Run the program in your terminal or within VS Code.
+2. Once it starts, the program will begin listening for keystrokes in the background.
+3. You can either test it by typing in a Notepad window or continue using your system normally for a while.
+4. All captured keystrokes will be saved in `keylog.txt`.
+5. (A sample log file is included for reference.)
+
+**Press the `Esc` key to stop the keylogger at any time.**
 
 ## 📜 How It Works (Explained Simply)
 This keylogger uses the pynput library, which makes capturing keyboard events super clean in Python.
